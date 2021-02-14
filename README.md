@@ -9,7 +9,7 @@
     - [Global Temperature Report :: The University of Alabama in Huntsville](https://www.nsstc.uah.edu/climate/)
 
 - Why take data accumulated over large periods of time?
-    Taken from [Wikipedia](https://en.wikipedia.org/wiki/Climate)
+    (Taken from [Wikipedia](https://en.wikipedia.org/wiki/Climate))
     - Climate is the long-term average of weather, typically averaged over a period of 30 years
     - Climate denotes the mean and variability of meteorological variables over a time spanning from months to millions of years
     - Some of the meteorological variables that are commonly measured are temperature, humidity, atmospheric pressure, wind, and precipitation.
