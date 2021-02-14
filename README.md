@@ -9,14 +9,13 @@
     - [Global Temperature Report :: The University of Alabama in Huntsville](https://www.nsstc.uah.edu/climate/)
 
 - Why take data accumulated over large periods of time?
-
-    Taken from Wikipedia ([https://en.wikipedia.org/wiki/Climate](https://en.wikipedia.org/wiki/Climate))
-
+    Taken from [Wikipedia](https://en.wikipedia.org/wiki/Climate)
     - Climate is the long-term average of weather, typically averaged over a period of 30 years
     - Climate denotes the mean and variability of meteorological variables over a time spanning from months to millions of years
     - Some of the meteorological variables that are commonly measured are temperature, humidity, atmospheric pressure, wind, and precipitation.
     - In a broader sense, climate is the state of the components of the climate system, which includes the ocean and ice on Earth.
     - The climate of a location is affected by its latitude, terrain, and altitude, as well as nearby water bodies and their currents.
+    
 - List of datasets
     - [lionbridge.ai - 11 best climate change datasets for machine learning](https://lionbridge.ai/datasets/11-best-climate-change-datasets-for-machine-learning/)
 
