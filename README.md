@@ -1,11 +1,9 @@
 # Datasets + Resources
 
 - Comprehensive Guide (Visualization + Climate Change Theory)
-
     [climate4you welcome](http://www.climate4you.com/)
 
 - Visualization Examples
-
     [Global Temperature Report :: The University of Alabama in Huntsville](https://www.nsstc.uah.edu/climate/)
 
 - Why take data accumulated over large periods of time?
@@ -20,19 +18,19 @@
 - List of datasets
     - [https://lionbridge.ai/datasets/11-best-climate-change-datasets-for-machine-learning/](https://lionbridge.ai/datasets/11-best-climate-change-datasets-for-machine-learning/)
 
-        [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data)
+        - [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data)
 
-        [Climate Change Data](https://datacatalog.worldbank.org/dataset/climate-change-data)
+        - [Climate Change Data](https://datacatalog.worldbank.org/dataset/climate-change-data)
 
-        [Daily Sea Ice Extent Data](https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data)
+        - [Daily Sea Ice Extent Data](https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data)
 
-        [World Bank Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/download-data)
+        - [World Bank Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/download-data)
 
         Social Media climate change datasets
 
-        [Climate Change Tweets Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QCCUU)
+        - [Climate Change Tweets Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QCCUU)
 
-        [Sentiment of Climate Change - dataset by crowdflower](https://data.world/crowdflower/sentiment-of-climate-change)
+        - [Sentiment of Climate Change - dataset by crowdflower](https://data.world/crowdflower/sentiment-of-climate-change)
 
     - [https://datahub.io/collections/climate-change](https://datahub.io/collections/climate-change)
 
